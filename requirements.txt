@@ -1,0 +1,11 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+nltk
+imbalanced-learn
+joblib
