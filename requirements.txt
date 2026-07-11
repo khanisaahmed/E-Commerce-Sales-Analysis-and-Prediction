@@ -1,11 +1,7 @@
-kagglehub
+streamlit
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
-xgboost
-shap
 nltk
-imbalanced-learn
+xgboost
 joblib
